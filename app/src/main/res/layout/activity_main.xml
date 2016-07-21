@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:id="@+id/textView" />
-/* Another test comment here. Don't mind me - Adil */
+<!-- Another test comment here. Don't mind me - Adil -->
 </RelativeLayout>
 
     <!-- An XML Comment. Mark -->
