@@ -16,3 +16,5 @@
         android:id="@+id/textView" />
 /* Another test comment here. Don't mind me - Adil */
 </RelativeLayout>
+
+    <!-- An XML Comment. Mark -->
